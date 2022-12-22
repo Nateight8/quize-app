@@ -40,7 +40,7 @@ export default function Home() {
 
   return (
     <ThemeProvider theme={theme}>
-      <CssBaseline />
+      {/* <CssBaseline /> */}
       <div>
         <Head>
           <title>Create Next App</title>
